@@ -1,0 +1,20 @@
+$font-sizes: (xs: 12px,
+  sm: 15px,
+  md: 18px,
+  lg: 25px,
+  xl: 32px);
+
+$spacing-types: (m: margin,
+  p: padding);
+$spacing-direction: (t: top,
+  r: right,
+  b: bottom,
+  l: left);
+$spacing-base-size: 16px;
+$spacing-sizes: (0: 0,
+  1: 0.25,
+  2: 0.5,
+  3: 1,
+  4: 1.5,
+  5: 3);
+
